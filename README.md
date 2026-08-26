@@ -1,24 +1,32 @@
-# Site Dr. Arilson Raniel Souza
+# Site - Primviz - Temporario - V2.2
 
-Site estático em HTML, CSS e JavaScript puro, pronto para GitHub e Cloudflare Pages.
+Página temporária da Primviz para hospedar projetos de demonstração e apresentar, de forma direta ao potencial cliente, como uma página profissional pode organizar as principais informações de uma empresa ou profissional.
 
-## Estrutura
+## Tecnologias
+- HTML5
+- CSS3
+- JavaScript puro
+- Font Awesome Brands/Solid via CDN
 
-- `index.html`: conteúdo e estrutura da página
-- `assets/css/style.css`: identidade visual e responsividade
-- `assets/js/script.js`: menu, animações, formulário e lightbox
-- `assets/images`: logomarca e resultados reais
-- `assets/videos`: vídeo institucional
-- `robots.txt`, `sitemap.xml` e `manifest.webmanifest`: arquivos técnicos
+## Recursos
+- Identidade visual Primviz
+- Degradês e texturas
+- Elementos gráficos em movimento contínuo
+- Layout responsivo e mobile first
+- Copy conversacional voltada ao potencial cliente
+- Blocos contextuais do tipo "imagine sua empresa aqui"
+- Formulário demonstrativo sem envio de dados
+- Instagram oficial da Primviz
+- Animações com suporte a prefers-reduced-motion
 
-## Publicação
+## Instagram
+https://www.instagram.com/primviz/
 
-Não há etapa de compilação. Publique a pasta inteira usando `/` como diretório raiz. Depois que o domínio definitivo for escolhido, adicione-o à tag canonical, ao Open Graph e ao `sitemap.xml`.
+## Observação
+O formulário é propositalmente demonstrativo e não envia informações para nenhum destino.
 
-## Integrações
+## Alteração V2.2
+- Header alterado para fundo claro com maior contraste para a logomarca oficial Primviz.
+- Navegação ajustada para azul Primviz, preservando o botão do Instagram em verde água.
 
-- Instagram: `@dr.arilsonranielsouza`
-- WhatsApp: `(74) 99921-2059`
-- Fluxo comercial: CTA, formulário validado e mensagem formatada no WhatsApp
-
-O projeto não recebeu Google Analytics porque nenhum Measurement ID foi fornecido. Endereço, mapa, Waze e horários não foram adicionados porque essas informações também não foram enviadas.
+- V2.2: fundo da seção final e rodapé ajustados para fundo claro, garantindo contraste da logomarca Primviz.
