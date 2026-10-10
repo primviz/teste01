@@ -1,32 +1,20 @@
-# Site - Primviz - Temporario - V2.2
+# Primviz • Versão 02 • Neon
 
-Página temporária da Primviz para hospedar projetos de demonstração e apresentar, de forma direta ao potencial cliente, como uma página profissional pode organizar as principais informações de uma empresa ou profissional.
+Alternativa visual para teste em conjunto com a Versão 01 fechada. Projeto estático em HTML, CSS e JavaScript puro. A versão original permanece preservada.
 
-## Tecnologias
-- HTML5
-- CSS3
-- JavaScript puro
-- Font Awesome Brands/Solid via CDN
+## Direção visual
+Azul profundo, painéis azul elétrico, verde-água neon, malha geométrica, bordas luminosas, órbitas e movimento de luz. Títulos em Space Grotesk, texto em Manrope. As fontes são carregadas pelo Google Fonts com fallback local.
 
-## Recursos
-- Identidade visual Primviz
-- Degradês e texturas
-- Elementos gráficos em movimento contínuo
-- Layout responsivo e mobile first
-- Copy conversacional voltada ao potencial cliente
-- Blocos contextuais do tipo "imagine sua empresa aqui"
-- Formulário demonstrativo sem envio de dados
-- Instagram oficial da Primviz
-- Animações com suporte a prefers-reduced-motion
+A copy comercial da Versão 01, exemplos reais, URLs dos projetos, checkout Hotmart, WhatsApp, Meta Pixel e GA4 foram preservados. Página interna /obrigado também recebeu a nova identidade.
 
-## Instagram
-https://www.instagram.com/primviz/
+## Arquivos
+index.html, assets/style.css, assets/neon.css, assets/script.js, assets/images, obrigado/index.html, _headers, _redirects, robots.txt, sitemap.xml.
 
-## Observação
-O formulário é propositalmente demonstrativo e não envia informações para nenhum destino.
+## Publicação
+Sem instalação e sem build. Publicar a pasta que contém index.html. Atualizar canonical, og:url e sitemap para o endereço efetivo desta variante antes de publicar. Para a Hotmart, configurar o domínio desta versão + /obrigado como destino. /obrigado não é exibida no menu e tem noindex. A URL continua acessível a quem a conhece.
 
-## Alteração V2.2
-- Header alterado para fundo claro com maior contraste para a logomarca oficial Primviz.
-- Navegação ajustada para azul Primviz, preservando o botão do Instagram em verde água.
+## Rastreamento
+GA4 G-XXPLRF9T9N; Meta Pixel 1395824749322064. Eventos de clique preservados, sem registrar Purchase ou início confirmado de checkout somente por navegação. Configure as vendas na Hotmart. UTMs recebidas continuam nos links de checkout. Para comparar as variantes, use campanhas/URLs identificadas com utm_content=versao_01 e utm_content=versao_02.
 
-- V2.2: fundo da seção final e rodapé ajustados para fundo claro, garantindo contraste da logomarca Primviz.
+## Verificação
+Scripts preservados byte a byte, arquivos locais e âncoras conferidos. Copy comercial preservada. Verificação visual em navegador e recebimento de eventos em GA4/Meta permanecem pendentes: o ambiente não fornece Chromium nem acesso às propriedades. Sem depoimentos fictícios.
